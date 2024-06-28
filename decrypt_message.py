@@ -19,9 +19,5 @@ encrypted_message = "Uifsf jt b tfdsfu nfttbhf xijdi dpoubjot uif gmbh!"
 shift = 1
 
 decrypted_message = decrypt_message(encrypted_message, shift)
-<<<<<<< HEAD
-print(f"WEST{tsewDNAtsae2napaj})
 
-=======
-print(f"") #変更
->>>>>>> origin/main
+print(f"")  #修正
